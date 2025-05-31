@@ -129,8 +129,8 @@ const Hero = () => {
           whileHover={{ scale: 1.05, transition: { duration: 0.3 } }}
         >
           <Image
-            src="/hero-image.png"
-            alt="Nihal Khan Ghouri - Profile Picture"
+            src="/nihalkhanghauri.jpg"
+            alt="Nihal Khan Ghauri - Profile Picture"
             width={600}
             height={300}
             priority
