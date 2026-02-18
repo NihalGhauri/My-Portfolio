@@ -42,7 +42,7 @@ const Footer = () => {
     },
     { 
       icon: Mail, 
-      href: 'mailto:nihalghouri321@gmail.com', 
+      href: 'mailto:ghourinihal@gmail.com', 
       aria: 'Send Email',
       hoverBg: 'hover:bg-red-500',
       hoverText: 'hover:text-white',
